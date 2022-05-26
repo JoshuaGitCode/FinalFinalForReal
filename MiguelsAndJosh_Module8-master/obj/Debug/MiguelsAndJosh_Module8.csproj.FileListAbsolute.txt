@@ -1,0 +1,2 @@
+C:\Users\Joshu\Desktop\New folder (3)\MiguelsAndJosh_Module8-master (1)\MiguelsAndJosh_Module8-master\obj\Debug\MiguelsAndJosh_Module8.csproj.AssemblyReference.cache
+C:\Users\Joshu\Desktop\New folder (3)\MiguelsAndJosh_Module8-master (1)\MiguelsAndJosh_Module8-master\obj\Debug\MiguelsAndJosh_Module8.csproj.SuggestedBindingRedirects.cache
